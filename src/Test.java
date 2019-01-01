@@ -19,7 +19,7 @@ class Test
   
     public static void main(String[] args) 
     { 
-        Test object = new Test(1000, 2050); 
+        Test object = new Test(11110, 20990); 
         object.display(); 
     } 
 }

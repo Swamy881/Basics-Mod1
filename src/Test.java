@@ -15,11 +15,12 @@ class Test
     { 
         //Displaying value of variables a and b 
         System.out.println("a = " + a + "  b = " + b); 
+        System.out.println("Swamynathan"); 
     } 
   
     public static void main(String[] args) 
     { 
-        Test object = new Test(111110, 440990); 
+        Test object = new Test(111110, 990); 
         object.display(); 
     } 
 }

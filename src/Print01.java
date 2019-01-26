@@ -12,8 +12,16 @@ public class Print01 {
 		long var_long = 1000000000000000L;
 		System.out.println(var_long + "   long    -9223372036854775808 to 9223372036854775808");
 		System.out.println("\n\n");
-		float var_float = 123456.5654f;
+		float var_float = 123456.5674f;
 		System.out.println(var_float + "   float    3.4e 038 to 3.4e 038");
+		double var_double = 12e5d;
+		System.out.println(var_double + "  Double ");
+		boolean var_boolean = false;
+		System.out.println(var_boolean + "  Boolean ");
+		String var_string = "Test for String variable"; 
+		System.out.println(var_string + "   String ");
+		System.out.println(var_short < var_int);
+		
 
 	}
 

@@ -11,7 +11,7 @@ public class Print01 {
 		System.out.println(var_int + "   int    -2147483648 to 2147483647");
 		long var_long = 1000000000000000L;
 		System.out.println(var_long + "   long    -9223372036854775808 to 9223372036854775808");
-		System.out.println("\n\n");
+		System.out.println("\n");
 		float var_float = 123456.5674f;
 		System.out.println(var_float + "   float    3.4e 038 to 3.4e 038");
 		double var_double = 12e5d;
